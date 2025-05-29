@@ -4,6 +4,11 @@
 		<TargetFramework>netstandard2.0</TargetFramework>
 		<RootNamespace>Rebus</RootNamespace>
 		<LangVersion>11</LangVersion>
+		<Authors>mookid8000</Authors>
+		<PackageProjectUrl>https://rebus.fm/what-is-rebus/</PackageProjectUrl>
+		<Copyright>Copyright Rebus FM ApS 2012</Copyright>
+		<RepositoryUrl>https://github.com/rebus-org/Rebus.MsgPack</RepositoryUrl>
+		<RepositoryType>git</RepositoryType>
 		<PackageDescription>Provides a MsgPack message serializer for Rebus</PackageDescription>
 		<PackageIcon>little_rebusbus2_copy-500x500.png</PackageIcon>
 		<PackageReadmeFile>README.md</PackageReadmeFile>
